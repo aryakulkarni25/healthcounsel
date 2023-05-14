@@ -1,6 +1,6 @@
 # HealthCounsel
 
-This project is the frontend of a Health App website, built using HTML and CSS. 
+This project is the frontend of a fictional Health App website, built using HTML and CSS. 
 The website provides information about different health topics, allows users to create accounts, and provides resources for tracking their health goals.
 
 # Features
